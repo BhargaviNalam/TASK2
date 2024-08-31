@@ -1,0 +1,26 @@
+.a{
+    box-sizing: border-box;
+    border-color: black;
+    border: 5px solid black;
+    width: 500px;
+    height: 500px;
+    margin: 150px 500px;
+}
+.b{
+    box-sizing: border-box;
+    border-color: black;
+    border: 5px solid black;
+    width: 300px;
+    height: 300px;
+    margin: 90px 100px;
+
+}   
+.c{
+    box-sizing: border-box;
+    border-color: black;
+    border: 5px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 15% 15% 15% 15%;
+    border-radius: 100%;
+}
